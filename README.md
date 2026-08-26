@@ -1,104 +1,212 @@
 # 👋 Hi, I'm Saiprakash Kulkarni
 
-### 🤖 AI/ML Developer | 🐍 Python Developer | 🚀 AI Product Builder
+### 🤖 AI/ML Developer · 🐍 Python Developer · 🚀 AI Product Builder
 
-I build **real-world intelligent systems** using Artificial Intelligence, Machine Learning, Computer Vision, LLMs, and IoT.
+> Building intelligent systems using **Artificial Intelligence, Machine Learning, Computer Vision, NLP, LLMs, Cloud, and IoT** to solve real-world problems.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/saiprakash-kulkarni/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-connectwiths.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:saiprakashkulkarni494@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently building **AI-powered real-world solutions**
-* 🤖 Interested in **Artificial Intelligence & Machine Learning**
-* 👁️ Exploring **Computer Vision**
-* 🧠 Learning and building with **LLMs**
-* 🔌 Combining **AI + IoT**
-* 🚀 Interested in transforming ideas into **startup-ready products**
+* 🎓 Pursuing a **B.E. in Artificial Intelligence & Machine Learning**
+* 🤖 Building practical AI systems that solve real-world problems
+* 👁️ Interested in **Machine Learning, Computer Vision, NLP, and Generative AI**
+* 🌐 Experienced in building AI applications with **Python, GCP, APIs, IoT, and data-driven systems**
+* 🔐 Researching intelligent approaches to **digital security and fraud prevention**
+* 🚀 Passionate about transforming technical ideas into **scalable, startup-oriented products**
 
 ---
 
-## 🌐 Connect With Me
+## 🔬 Research & Publication
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)]((https://www.linkedin.com/in/saiprakash-kulkarni))
+### 🔐 Enhancing UPI Security Through Intelligent Recipient Verification
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge\&logo=vercel)]((https://www.linkedin.com/in/saiprakash-kulkarni))
+**Lead Researcher & Author**
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:saiprakashkulkarni494@gmail.com)
+A proposed intelligent security layer for UPI transactions that focuses on reducing recipient impersonation and social-engineering risks.
 
----
+**Key work:**
 
-# 💻 Tech Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-
-### AI / ML
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+* 🧠 Integrated **SBERT embeddings and Cosine Similarity** for cross-lingual VPA impersonation detection
+* 🛡️ Designed a **Risk-Based Authentication framework** using passive device fingerprinting
+* ⚡ Explored dynamic friction mechanisms for high-risk transactions
+* 🎯 Combined algorithmic intelligence with UX-based approaches to help disrupt social engineering
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🌾 RaithaAI
+### 🌾 Kisan Mitra — AI-Integrated Platform
 
-AI-powered agriculture intelligence system combining **Computer Vision, object detection, IoT, Arduino, and a web dashboard**.
+An end-to-end AI platform designed for smallholder farmers.
 
-🔗 Repository: Add your RaithaAI repository link here.
+**What it does:**
+
+* 🌱 Computer Vision-based disease detection
+* 🗣️ Multilingual voice interaction using **Speech-to-Text and Text-to-Speech**
+* 📈 Real-time market intelligence
+* ☁️ Multi-source API ingestion pipeline with schema validation
+* 🌐 Designed for low-bandwidth and multilingual rural access
+
+**Tech:** `Python` · `Computer Vision` · `Kannada NLP` · `GCP` · `APIs`
+
+🔗 **Repository:** Add your Kisan Mitra / RaithaAI repository link here
 
 ---
 
-## 🎥 DeepSpectra 2.0
+### 🌊 Smart Flood Early Warning System
+
+An AI-powered flood prediction and emergency alert system built using environmental and IoT data.
+
+**Highlights:**
+
+* 🧠 Developed a **Bi-LSTM + XGBoost ensemble**
+* 📊 Used IoT sensor and satellite data for water-level prediction
+* 🎯 Achieved **95% water-level prediction accuracy**
+* 🚨 Reduced false alarms by **90%**
+* ⚡ Designed an automated emergency alert pipeline capable of dispatching notifications within **5 minutes of detection**
+
+**Tech:** `Python` · `Bi-LSTM` · `XGBoost` · `Machine Learning` · `IoT`
+
+🔗 **Repository:** Add your project repository link here
+
+---
+
+### 🤖 RaithaAI
+
+An AI-focused project exploring the use of intelligent technologies to solve practical agricultural challenges.
+
+**Focus Areas:**
+
+* Computer Vision
+* AI-powered analysis
+* IoT integration
+* Intelligent monitoring
+* Web-based dashboards
+
+**Tech:** `Python` · `OpenCV` · `Machine Learning` · `Arduino` · `IoT`
+
+🔗 **Repository:** Add your RaithaAI repository link here
+
+---
+
+### 🧠 DeepSpectra 2.0
 
 An AI-based project focused on intelligent analysis and real-world problem solving.
 
-🔗 Repository: Add your repository link here.
+**Tech:** `Python` · `Machine Learning` · `AI`
+
+🔗 **Repository:** Add your DeepSpectra 2.0 repository link here
 
 ---
 
-## 🧠 AI Evidence Engine
+## 💻 Tech Stack
 
-An AI-powered system designed to analyze large volumes of video evidence and identify meaningful, high-quality work automatically.
+### 🧑‍💻 Programming
 
-🔗 Coming soon.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
+</p>
+
+### 📊 Data & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### ☁️ Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
 
 ---
 
-## 🏥 Healthcare Intelligence Platform
+## 🏆 Certifications & Recognition
 
-A smart healthcare discovery and emergency assistance platform designed to help users identify hospitals based on facilities, emergency services, departments, specialists, and availability.
-
-🔗 Coming soon.
-
----
-
-# 📊 GitHub Statistics
-
-![Saiprakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saiprakashkulkarni\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiprakashkulkarni\&layout=compact\&theme=tokyonight)
+* 🏅 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+* ☁️ **NPTEL Cloud Computing — Elite + Top 5%**
+* 🤖 **AI Fundamentals — IBM**
 
 ---
 
-# 📈 Contribution Graph
+## 📊 GitHub Statistics
 
-[![Saiprakash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saiprakashkulkarni\&theme=tokyo-night)](https://github.com/Saiprakashkulkarni)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saiprakashkulkarni&show_icons=true&hide_border=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiprakashkulkarni&layout=compact&hide_border=true&theme=tokyonight"/>
+</p>
 
 ---
 
-### 🚀 "Building intelligent solutions for real-world problems."
+## 📈 Contribution Activity
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saiprakashkulkarni&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+* 🤖 Advanced AI & Machine Learning systems
+* 👁️ Computer Vision applications
+* 🧠 LLMs and Generative AI
+* 🔐 AI for security and fraud prevention
+* 🌐 AI-powered products and startup development
+* 🔌 Intelligent systems combining **AI + IoT**
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in collaborating on **AI, Machine Learning, Computer Vision, Generative AI, and real-world technology projects**.
+
+<p>
+  <a href="https://www.linkedin.com/in/saiprakash-kulkarni/">
+    <img src="https://img.shields.io/badge/LinkedIn-Saiprakash_Kulkarni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:saiprakashkulkarni494@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building intelligent technology for real-world impact."</i>
+</p>
