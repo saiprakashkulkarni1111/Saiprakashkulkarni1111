@@ -167,29 +167,35 @@ An AI-based project focused on intelligent analysis and real-world problem solvi
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Saiprakashkulkarni&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiprakashkulkarni&layout=compact&theme=github_dark&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/Saiprakashkulkarni">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Saiprakashkulkarni&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+      height="180"
+      alt="Saiprakash's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/Saiprakashkulkarni">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiprakashkulkarni&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
+      height="180"
+      alt="Saiprakash's Top Languages"
+    />
+  </a>
 </p>
-
 
 ---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Saiprakashkulkarni&theme=github-dark&hide_border=true"
-    alt="GitHub Contribution Graph"
-  />
+  <a href="https://github.com/Saiprakashkulkarni">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Saiprakashkulkarni&theme=github-compact&hide_border=true"
+      alt="Saiprakash's GitHub Contribution Graph"
+    />
+  </a>
 </p>
+
 
 
 ---
