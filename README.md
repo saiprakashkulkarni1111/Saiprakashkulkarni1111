@@ -169,7 +169,7 @@ An AI-based project focused on intelligent analysis and real-world problem solvi
 <p align="center">
   <a href="https://github.com/saiprakashkulkarni1111">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=saiprakashkulkarni1111&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+      src="https://github-readme-stats.vercel.app/api?username=saiprakashkulkarni1111&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true&cache_seconds=1800"
       height="180"
       alt="Saiprakash's GitHub Stats"
     />
